@@ -6,7 +6,7 @@ library(ggplot2)
 
 #--------Data Set for Task 2-------
 
-dataset <- read.csv("F:\\1.Masters in Data Science (Fast)\\Stats\\Assignments\\assignment no 3\\Covid-19_Dataset.csv")
+dataset <- read.csv("https://raw.githubusercontent.com/s-shakir/Covid-19-Data-Analysis/main/Covid-19_Dataset.csv")
 View(dataset)
 
 
